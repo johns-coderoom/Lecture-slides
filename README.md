@@ -55,7 +55,7 @@ In short:
 
 Your feedback is invaluable! If you are a student, educator, or professional with questions, suggestions, or corrections, please don't hesitate to reach out.
 
-*   **Email:** [you](johnsenanu36@gmail.com)
+*   **Email:** [johnsenanu36@gmail.com](johnsenanu36@gmail.com)
 *   **
 
 ---
