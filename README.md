@@ -19,9 +19,9 @@ Below is a list of courses for which I have developed and delivered lectures. Ea
 
 | Course Code | Course Title | Semester/Year | Key Topics |
 | :--- | :--- | :--- | :--- |
-| **[SP251](biochemistry/)** | Introduction to Computing | Fall 2023 | Algorithms, Python Basics, Problem Solving |
-| **[OT350](CS350-neurophysiology,-physiology-and-anatomy/)** | Data Structures & Algorithms | Spring 2024 | Linked Lists, Trees, Graphs, Sorting, Big-O |
-| **[BMS450]( biomechanics/)** | Machine Learning Fundamentals | Fall 2024 | Linear Regression, Classification, Neural Networks |
+| **[SP251](biochemistry/)** | protein , carbohydrates and lipids | Fall 2023 | Algorithms, Python Basics, Problem Solving |
+| **[OT350](CS350-neurophysiology,-physiology-and-anatomy/)** | cardic, gastrointestinal, reproductive,endocine| Spring 2024 | Linked Lists, Trees, Graphs, Sorting, Big-O |
+| **[BMS450]( biomechanics/)** | Principles of biomechanics| Fall 2024 | Linear Regression, Classification, Neural Networks |
 
 *(This table is a sample. Add, remove, or modify rows to fit your courses.)*
 
